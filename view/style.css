@@ -4,6 +4,11 @@
     justify-content: center;
     flex-direction: column;
 }
+
+#dpee_contents h1{
+    text-align: center;
+}
+
 #dpee_info{
     display: flex;
     flex-direction: column;
